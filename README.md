@@ -6,3 +6,5 @@
 
 - [Git 相关整理](./git.md)
 - [Chrome 插件 相关整理](./chrome-plugin.md)
+- [有趣的项目](./project.md)
+- [工具 相关整理](./tool.md)

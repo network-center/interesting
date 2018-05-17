@@ -25,3 +25,9 @@
 ### GitHub 单独下载某一个文件夹
 
 [DownGit Create GitHub Resource Download Link](https://minhaskamal.github.io/DownGit/#/home) 贴入文件夹地址，将生成下载链接。
+
+### README badges
+
+![](https://img.shields.io/badge/Network%20Center-Interesting-brightgreen.svg)
+
+[Shields.io: Quality metadata badges for open source projects](http://shields.io/)
